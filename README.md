@@ -1,5 +1,3 @@
-# pgp-key
-
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 xsBNBGdWVesBCACQOVikoBii3Lyj6LoEfP1LHJqGM7cH6uUIrEdpj8h6C/H0
